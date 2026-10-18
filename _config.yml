@@ -1,7 +1,7 @@
 title: awesome-excel-esports
 description: Curated resources for competitive Microsoft Excel
 remote_theme: just-the-docs/just-the-docs
-color_scheme: dark
+color_scheme: light
 search_enabled: true
 heading_anchors: true
 nav_sort: case_insensitive
