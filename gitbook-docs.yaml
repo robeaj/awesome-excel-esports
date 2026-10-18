@@ -1,0 +1,28 @@
+root: .
+
+pages:
+  - title: Home
+    path: index.md
+
+  - title: Competitions
+    path: competitions.md
+    pages:
+      - title: Excel World Championship
+        path: competitions-excel-world-championship.md
+      - title: Rate My Excel Arena
+        path: competitions-rate-my-excel-arena.md
+
+  - title: Learning
+    path: learning.md
+
+  - title: Communities
+    path: communities.md
+
+  - title: Tools and Spreadsheets
+    path: tools-and-spreadsheets.md
+
+  - title: Articles and Media
+    path: articles-and-media.md
+
+  - title: Contributing
+    path: contributing.md
