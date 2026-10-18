@@ -1,14 +1,13 @@
 site:
   title: Awesome Excel Esports
   root: .
-
-  pages:
+  structure:
     - title: Home
       path: index.md
 
     - title: Competitions
       path: competitions.md
-      pages:
+      children:
         - title: Excel World Championship
           path: competitions-excel-world-championship.md
         - title: Rate My Excel Arena
