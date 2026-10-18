@@ -21,8 +21,14 @@
 
 ## Youtube Channels
 
+* [Links](youtube-channels/links.md)
+
 ## MEWC
 
 * [The Active Cell](https://theactivecell.com/)
 * [Excel Esports Online](https://play.excel-esports.com/)
 * [LinkedIn](https://www.linkedin.com/company/financial-modeling-world-cup/)
+
+## Heading to Vegas?
+
+* [The unofficial guide](heading-to-vegas/the-unofficial-guide.md)
