@@ -2,14 +2,15 @@
 layout: default
 title: Home
 nav_order: 1
-has_children: true
 ---
 
 # awesome-excel-esports
 
 A modern docs-style directory of resources for competitive Microsoft Excel.
 
-## Quick links
+> New here? Start with **Competitions**, then browse Learning and Tools.
+
+## Explore sections
 
 - [Competitions](/competitions/)
 - [Communities](/communities/)
