@@ -1,29 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
 site:
   title: Awesome Excel Esports
-  root: .
   structure:
-    - title: Home
-      path: index.md
-
-    - title: Competitions
-      path: competitions.md
-      children:
-        - title: Excel World Championship
-          path: competitions-excel-world-championship.md
-        - title: Rate My Excel Arena
-          path: competitions-rate-my-excel-arena.md
-
-    - title: Learning
-      path: learning.md
-
-    - title: Communities
-      path: communities.md
-
-    - title: Tools and Spreadsheets
-      path: tools-and-spreadsheets.md
-
-    - title: Articles and Media
-      path: articles-and-media.md
-
-    - title: Contributing
-      path: contributing.md
+    - type: space
+      key: space-awesome-excel-esports
+      title: Awesome Excel Esports
+      path: awesome-excel-esports
+      default: true
+      content:
+        directory: .
